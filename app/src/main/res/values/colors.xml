@@ -1,0 +1,12 @@
+<resources>
+    <color name="ink">#F2F0E9</color>
+    <color name="ink_muted">#94A39D</color>
+    <color name="canvas">#0B1110</color>
+    <color name="surface">#121A18</color>
+    <color name="surface_raised">#17231F</color>
+    <color name="border">#273530</color>
+    <color name="gold">#E1BA67</color>
+    <color name="green">#77D7A5</color>
+    <color name="amber">#E6BF67</color>
+    <color name="red">#F18C8C</color>
+</resources>
